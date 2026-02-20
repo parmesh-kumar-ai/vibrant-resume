@@ -44,6 +44,16 @@ In today's competitive job market, most applicants fail to pass ATS (Applicant T
 
 ---
 
+## 📊 Previews
+
+![Preview01](01.png)
+![Preview03](03.png)
+![Preview05](05.png)
+![Preview07](07.png)
+![sampleresumegenerated](sampleresumegenerated.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
